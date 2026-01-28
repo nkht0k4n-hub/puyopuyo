@@ -1,0 +1,1 @@
+puyopuyo masterにはフォルダとしてデータが入っている
